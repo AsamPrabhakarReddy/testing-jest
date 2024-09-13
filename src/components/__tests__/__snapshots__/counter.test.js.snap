@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`using snapshot  snapshot testing 1`] = `
+<div
+  className="flex items-center gap-10 text-center"
+>
+  <div>
+    <button
+      data-testid="decre"
+      onClick={[Function]}
+    >
+      -
+    </button>
+  </div>
+  <div>
+    <h1
+      data-testid="count"
+    >
+      0
+    </h1>
+  </div>
+  <div>
+    <button
+      data-testid="incre"
+      onClick={[Function]}
+    >
+      +
+    </button>
+  </div>
+</div>
+`;
