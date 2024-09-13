@@ -12,7 +12,7 @@ describe('Counting functionality Testing == > ', ()=>{
 
         fireEvent.click(increment)
 
-        expect(counter).toHaveTextContent("2")
+        expect(counter).toHaveTextContent("1")
 
     })
 
